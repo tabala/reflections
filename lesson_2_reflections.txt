@@ -1,0 +1,3 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+	.git file gets created, no commits are added yet. Need to to work with git
